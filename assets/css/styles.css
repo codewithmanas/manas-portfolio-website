@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+}
+
+h1 {
+    font-weight: bold;
+    line-height: 1.1;
+}
+
+#intro h2 {
+    line-height: 1.1;
+}
+
+.intro__section {
+    padding-left: 3rem;
+}
+.cover__image img {
+    width: 400px;
+}
+.more__projects-btn {
+    padding-top: 1.5rem;
+    padding-bottom: 3.5rem;
+    margin-bottom: 0;
+}
+
+.project__section {
+    padding: 3rem;
+    /* background-color: #484AA3; */
+    padding-bottom: 0;
+}
+.project__one {
+    background-color: #484AA3;
+    border-radius: 6px 6px 0 0 ;
+}
+.project__three {
+    border-radius: 0 0 6px 6px;
+}
